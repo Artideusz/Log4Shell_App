@@ -1,0 +1,4 @@
+.apt_generated/
+.vscode/
+target/
+.git
