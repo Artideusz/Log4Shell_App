@@ -26,4 +26,5 @@ The application is a simple TCP server that asks the user their name, and then e
 
 *Log4j Server Output after sending data via netcat.*
 
-<p style="color: red">Happy Hacking!</p>
+<br><br><br>
+![](https://lingtalfi.com/services/pngtext?color=ff0000&text=Happy%20Hacking!)
